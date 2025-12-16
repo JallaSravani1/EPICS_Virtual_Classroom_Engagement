@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML Models
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
